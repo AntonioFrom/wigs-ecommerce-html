@@ -3,7 +3,7 @@
 .sidebar {
   width: 252px;
   min-height: 100vh;
-  background-color: rgb(213, 214, 215);
+  background-color: #FAFAFA;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
