@@ -1,0 +1,1 @@
+Layout of an online store in HTML, CSS
